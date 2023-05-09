@@ -23,6 +23,9 @@ To start this project on locally follow the instraction by given terminal comman
   git clone https://github.com/keplar-404/testOFCoredevs.git
 ```
 ```bash
+  cd .\testOFCoredevs
+```
+```bash
   yarn install
 ```
 ```bash
