@@ -29,7 +29,7 @@ To start this project on locally follow the instraction by given terminal comman
   yarn install
 ```
 ```bash
- yarn start
+ yarn run dev
 ```
 
 
